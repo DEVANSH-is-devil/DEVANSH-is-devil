@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @DEVANSH-is-devil
-- 👀 I’m interested in doing gym and editing 
-- 🌱 I’m currently learning django python 
-- 💞️ I’m looking to collaborate on many big projects
+- 👋 Hi, I’m Devansh Gupta 
+- 👀 I’m interested in doing gym and editing  
+- 🌱 I’m currently learning Data Structures and Algorithm 
+- 💞️ I’m looking to collaborate on many big project
 - 📫 How to reach me this is my mail id devansh.gupta2021@vitbhopal.ac.in
 
 <!---
